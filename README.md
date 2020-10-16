@@ -1,3 +1,4 @@
 # Motion-Detection
 
-<img src="Image/ss1.PNG" alt="Image_Smoothner">
+<img src="Image/ss1.PNG" alt="Motion Detection">
+<img src="Image/ss2.PNG" alt="Motion Detection">
